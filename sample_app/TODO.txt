@@ -1,2 +1,2 @@
-3.3.2
-http://ruby.railstutorial.org/chapters/static-pages#top
+5.3.1 Route Tests
+http://ruby.railstutorial.org/chapters/filling-in-the-layout#code:footer_css
