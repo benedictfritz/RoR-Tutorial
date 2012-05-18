@@ -15,5 +15,5 @@
 /tmp
 
 # Ignore vim temp thingies
-.swp
+*.swp
 
