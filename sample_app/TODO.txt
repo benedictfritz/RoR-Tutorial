@@ -1,2 +1,2 @@
-5.3.1 Route Tests
-http://ruby.railstutorial.org/chapters/filling-in-the-layout#code:footer_css
+Listing 6.21
+Just did rails generate migration add_index_to_users_email
