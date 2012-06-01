@@ -1,2 +1,2 @@
-Listing 6.21
-Just did rails generate migration add_index_to_users_email
+On 9.6 Exercises
+http://ruby.railstutorial.org/chapters/updating-showing-and-deleting-users#sec:showing_all_users
