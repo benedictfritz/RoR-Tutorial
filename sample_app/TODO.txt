@@ -1,2 +1,4 @@
-On 9.6 Exercises
+Exercise 9 -- Admin users don't see the delete button but it still possible for them to fill in the URL manually and send a request that way that allows them to delete themselves, which they shouldn't be allowed to do. We need to emulate a request to the destroy path for the current user that is an admin, and stop that action.
+
+On 9.6 Exercises - On exercise 6
 http://ruby.railstutorial.org/chapters/updating-showing-and-deleting-users#sec:showing_all_users
